@@ -183,7 +183,7 @@ section{position:relative}
 /* ---------- Force athlétique ---------- */
 .sbd{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:50px}
 .lift{background:var(--anthracite);padding:34px 30px;position:relative;overflow:hidden}
-.lift .letter{font-family:var(--titre);font-size:180px;line-height:.95;color:var(--rouge);opacity:.95;display:block;margin-bottom:18px;transform:skewX(var(--skew))}
+.lift-icon{display:block;width:120px;height:120px;color:var(--blanc);margin:0 0 24px -8px}
 .lift h3{margin-bottom:6px}
 .lift .en{font-size:11px;font-weight:700;letter-spacing:.24em;text-transform:uppercase;color:rgba(255,255,255,.5);display:block;margin-bottom:16px}
 .lift p{font-size:14px;color:rgba(255,255,255,.72)}
@@ -286,7 +286,7 @@ section{position:relative}
   .hero-media{max-width:520px;margin-left:auto}
   .club{grid-template-columns:1fr;text-align:left}
   .sbd{grid-template-columns:1fr}
-  .lift .letter{font-size:130px}
+  .lift-icon{width:100px;height:100px}
   .pillars{grid-template-columns:1fr}
   .pillar,.pillar+.pillar{padding:26px 0;border-left:0;border-bottom:1px solid var(--gris-ligne)}
   .dark .pillar{border-color:rgba(255,255,255,.12)}

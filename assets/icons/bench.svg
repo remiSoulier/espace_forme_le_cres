@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <title>Développé couché</title>
+  <path d="M17 45h36M23 45v12M47 45v12"/>
+  <path d="M44 39H24H13l-3 17"/>
+  <path d="M42 38V20"/>
+  <circle cx="51" cy="38" r="4.5" fill="currentColor" stroke="none"/>
+  <circle cx="42" cy="15" r="8.5" fill="#D71920" stroke="none"/>
+  <circle cx="42" cy="15" r="2.4" fill="#9E1117" stroke="none"/>
+</svg>
